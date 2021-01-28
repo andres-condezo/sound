@@ -2,7 +2,7 @@
 
 <img src="./img/preview.png">
 
-**This is the day 9** and this project is about a sound boardi with html5 audio tag.
+**This is the day 9** and this project is about a sound board with html5 audio tag.
 
 **Technologies used:**
 
